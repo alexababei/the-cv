@@ -49,33 +49,38 @@ education:
     details:
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Operador de aplicaciones (N2) - Linux/Windows
+    time: 2022 - Actualidad
+    company: VASS - "Proyecto Telefónica"
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
-        - Bullet point
-        - Bullet point
-    achievements:
-      desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
-      highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
-        - Maecenas tempus tellus eget.
+      Mis roles se dividen en 2 categorías:
+            - Administración cola de archivos (MIDDLEWARE)
+                - Herramientas de transmisión de ficheros: Dataone y Spazio
+                - Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
+                - Modificación/eliminado de flujos.
+                - Atención de incidencias y peticiones de clientes.
+            - Operador de aplicaciones y sistemas (AO)
+                - Principalmente enfocado en sistemas Linux/Unix
+                - Verificación diaria de aplicativos.
+                - Control de filesystems: find, du, df, Treesize (Windows)
+                - Control de usuarios y contraseñas: LDAP, Keepass, Active directory (Windows)
+                - Certificaciones y claves: cer, pfx, csr
+                - Revisión y mantenimiento sobre logs del sistema: cat, grep, head, tail, vim, Event Viewer (Windows)
+                - Arranque/parada de aplicativos: Jboss, Citrix, IIS (Windows)
+                - Mantenimiento básico de las BBDD: Oracle SQL Developer y SQL Server (Windows)
+                - Incidencias y ticketing: BMC ITSM, Jira, Outlook
+                - Despliegue en aplicativos PRODUCTIVOS y PRE-PRODUCTIVOS: manual o automático (Jenkins)
     technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - DataOne
+      - Spazio
+      - Bash
+      - LDAP
+      - Active Directory
+      - Jboss
+      - Citrix
+      - ITSM
+      - JIRA
+      - Jenkins
 
   - role: Senior Software Developer
     time: 2014 - 2018
