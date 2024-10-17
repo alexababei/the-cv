@@ -82,153 +82,58 @@ experiences:
       - JIRA
       - Jenkins
 
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
+  - role: Técnico de sistemas 24x7 (helpdesk)
+    time: Octubre 2020 – Enero 2022
+    company: Indra - "Proyecto BBVA"
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
-    achievements:
-      desc: |
-        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+      Funciones principales dentro de la empresa:
+            - Monitorización de máquinas PRODUCTIVAS: BMC Impact
+            - Atención a otros grupos de soporte: JIRA y/o Remedy
+            - Resolución de incidencas por correo: Gmail
+            - Atención de llamadas telefónicas y derivado a otros grupos de soporte (Contact Center)
+            - Operativas en Unix y Windows: reinicios controlados, mantenimiento de aplicativos, ejecución de jobs Control-M
     technologies:
-      - React
-      - Redux
-      - Django
-      - Webpack
-      - HTML/SASS
-      - MySQL
-
-  - role: Co-Founder & Lead Developer
-    time: 2012 - 2014
-    company: To-do Lists
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec.
-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes.
-    technologies:
-      - Django
-      - JavaScript
-      - Node.js
-      - Require.js
-      - HTML/SASS
-
-  - role: Web Developer
-    subrole: Intern
-    time: 2011 - 2012
-    company: Amazon
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec. Fusce vulputate eleifend sapien.
-      Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.
-      Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.
-    technologies:
-      - Ruby on Rails
-      - jQuery
-      - HTML/LESS
-      - MongoDB
+      - BMC Impact
+      - JIRA
+      - Gmail
+      - Control-M
+      - Veritas Cluster
 
 awards:
-  - name: Award Name Lorem
-    description: |
-      Award desc goes here, ultricies nec, pellentesque
-      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  - name: Award Name Lorem
-    description: |
-      Award desc goes here, ultricies nec, pellentesque
-      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-
-# Projects are not used in this template for now
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# Publications are not used in this template for now
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+  - name: LPIC-01 - 2024
+    description:
+  - name: Linux Essentials - 2018
+    description:
 
 skills:
-  - category: Frontend
+  - category: Linux
     tools:
-      - name: Angular
-        level: 98%
-      - name: React
-        level: 98%
-      - name: JavaScript
-        level: 98%
-      - name: Node.js
-        level: 95%
-      - name: HTML/CSS/SASS/LESS
+      - name: Servicios
+        level: 90%
+      - name: Bash
         level: 85%
-  - category: Backend
+      - name: Python
+        level: 75%
+      - name: Monitorización
+        level: 70%
+      - name: Backups
+        level: 60%
+      - name: Seguridad
+        level: 50%
+      - name: Virtualizados
+        level: 40%
+  - category: Windows
     tools:
-      - name: Python/Django
-        level: 95%
-      - name: Ruby/Rails
-        level: 98%
-      - name: PHP
-        level: 87%
-      - name: WordPress/Shopify
-        level: 92%
-  - category: others
+      - name: Ofimática
+        level: 90%
+      - name: IIS
+        level: 85%
+      - name: Active Directory
+        level: 75%
+      - name: SQL Server
+        level: 65%
+  - category: Otros
     tools:
-      - DevOps
-      - Code Review
-      - Git
-      - Unit Testing
-      - Wireframing
-      - Sketch
-      - Balsamiq
       - WordPress
-      - Shopify
+      - Ticketing
+      - Clusters
