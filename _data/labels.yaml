@@ -1,7 +1,7 @@
 # In this file, you can override most of the sections titles
 
 career-profile: Perfil # default: Career Profile
-awards: # default: Awards
+awards: Certificados # default: Awards
 education: Educación # default: Education
 experience: Experiencia Profesional # default: Work Experience
 achievements: # default: Achievements
