@@ -5,65 +5,48 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
-  website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
+  email: alex.ababei@outlook.com
+  phone: 643 601 784
+  website: https://alexababei.github.io/the-cv/
+  linkedin: alexababei
+  github: alexababei
   gitlab:
   bitbucket:
-  twitter: "@stevedoe"
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
+  - idiom: Español
+    level: Nativo
+  - idiom: Rumano
+    level: Materno
+  - idiom: Inglés
+    level: Medio
 
 interests:
-  - name: Climbing
+  - name: Videojuegos
     link:
-  - name: Snowboarding
+  - name: Finanzas
     link:
-  - name: Cooking
+  - name: Lectura
     link:
 
 summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+  Profesional con casi 5 años de experiencia en el sector de la información. 
+  Me especializo en administrar y/o operar sistemas Linux, desde sus fases pre-productivas hasta las críticas. 
+  Familiarizado con una amplia gama de herramientas corporativas como ticketing (jira, ITSM), despliegues (jenkins)…
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Grado Superior - Administración de Sistemas Informáticos en Red
+    university: IES Alonso de Avellaneda
+    time: 2018 - 2020
+    details:
+  - degree: Bachillerato
+    university: IES Alkala Nahar
+    time: 2016 - 2018
+    details:
 
 experiences:
   - role: Lead Developer
