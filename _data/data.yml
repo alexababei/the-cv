@@ -89,11 +89,11 @@ experiences:
     company: Indra - "Proyecto BBVA"
     details: |
       Funciones principales dentro de la empresa:
-            - Monitorización de máquinas PRODUCTIVAS: BMC Impact
-            - Atención a otros grupos de soporte: JIRA y/o Remedy
-            - Resolución de incidencas por correo: Gmail
-            - Atención de llamadas telefónicas y derivado a otros grupos de soporte (Contact Center)
-            - Operativas en Unix y Windows: reinicios controlados, mantenimiento de aplicativos, ejecución de jobs Control-M
+        - Monitorización de máquinas PRODUCTIVAS: BMC Impact
+        - Atención a otros grupos de soporte: JIRA y/o Remedy
+        - Resolución de incidencas por correo: Gmail
+        - Atención de llamadas telefónicas y derivado a otros grupos de soporte (Contact Center)
+        - Operativas en Unix y Windows: reinicios controlados, mantenimiento de aplicativos, ejecución de jobs Control-M
     technologies:
       - BMC Impact
       - JIRA
