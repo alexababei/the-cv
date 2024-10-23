@@ -32,11 +32,14 @@ interests:
     link:
   - name: Lectura
     link:
+  - name: Música
+    link:
 
 summary: |
-    Profesional con casi 5 años de experiencia en el sector de la información.
-    Me especializo en administrar y/o operar sistemas Linux, desde sus fases pre-productivas hasta las críticas.
-    Familiarizado con una amplia gama de herramientas corporativas como ticketing (jira, ITSM), despliegues (jenkins)…
+    Profesional con 5 años de experiencia en el sector de la información.            
+    Me especializo en administrar sistemas Linux, desde sus fases pre-productivas hasta las críticas.            
+    Familiarizado con una amplia gama de herramientas corporativas.            
+    Desde siempre he trabajado con equipos, siendo proactivo y colaborador.
 
 education:
   - degree: Grado Superior - Administración de Sistemas Informáticos en Red
@@ -100,8 +103,8 @@ experiences:
       - Veritas Cluster
 
 awards:
-  - name: LPIC-01 - 2024
-    description:
+  #- name: LPIC-01 - 2024
+    #description:
   - name: Linux Essentials - 2018
     description:
 
