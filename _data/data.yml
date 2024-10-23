@@ -135,8 +135,8 @@ skills:
         level: 75%
       - name: SQL Server
         level: 65%
-  - category: Otros
-    tools:
-      - WordPress
-      - Ticketing
-      - Clusters
+  #- category: Otros
+   # tools:
+    #  - WordPress
+     # - Ticketing
+     # - Clusters
